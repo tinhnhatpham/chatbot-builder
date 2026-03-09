@@ -14,7 +14,7 @@
   // 👇 CONFIGURE THIS FOR EACH CUSTOMER
   // ============================================================
   const CONFIG = {
-    botId: "6aeb6cc0",               // 👈 Only thing you need to change per customer
+    botId: "31604ab6",               // 👈 Only thing you need to change per customer
     backendUrl: "https://botforge-backend-production-6e09.up.railway.app",      // Your Railway backend URL
   };
 
