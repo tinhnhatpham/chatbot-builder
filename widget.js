@@ -14,12 +14,12 @@
   // 👇 CONFIGURE THIS FOR EACH CUSTOMER
   // ============================================================
   const CONFIG = {
-    botId: "YOUR_BOT_ID_HERE",               // 👈 Paste the Bot ID from the builder
+    botId: "6aeb6cc0",               // 👈 Paste the Bot ID from the builder
     botName: "Aria",                          // Bot's display name
     welcomeMessage: "Hi there! 👋 How can I help you today?",
     placeholder: "Type a message...",
     accentColor: "#6c63ff",                   // Brand color (hex)
-    backendUrl: "YOUR_RAILWAY_URL_HERE",      // Your Railway backend URL
+    backendUrl: "https://botforge-backend-production-6e09.up.railway.app",      // Your Railway backend URL
   };
   // ============================================================
 
